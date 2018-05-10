@@ -1,4 +1,4 @@
-package com.shijc.hellokotlin.unit2
+package com.shijc.hellokotlin.unit02
 
 /**
  * Kotlin的基本语法

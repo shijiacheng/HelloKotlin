@@ -1,4 +1,4 @@
-package com.shijc.hellokotlin.unit2
+package com.shijc.hellokotlin.unit02
 
 /**
  * 基础数据类型
