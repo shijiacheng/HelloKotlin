@@ -2,7 +2,7 @@
 
 > 有困难要上，没困难制造困难也要上。
 
-![](images/15.jpg)
+![](https://github.com/shijiacheng/HelloKotlin/blob/master/note/images/15.jpg)
 
 曾几何时，一觉醒来发现Kotlin成为了Android的官方语言，怎么又有新语言出来啊，WTF。
 
